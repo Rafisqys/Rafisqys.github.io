@@ -4,7 +4,7 @@ title: Rafisqy's Website
 published: true
 ---
 
-My name is Rafisqy and im a basic programer
+My name is Rafisqy and im a basic programer.
 
 
 I can build a website using html and css. I also can code the basic of C++
