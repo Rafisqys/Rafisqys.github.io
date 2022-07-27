@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+## About me
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello, my name is rafisqy i am a basic devoloper. I can make website using html and css, And code basic stuff using C++. I want to learn about lua soon.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rafisqyraf@gmail.com](mailto:rafisqyraf@gmail.com)
